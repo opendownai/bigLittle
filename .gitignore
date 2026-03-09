@@ -1,0 +1,31 @@
+# Lottery Prediction Project .gitignore
+
+# Data files (keep only the essential ones)
+data/
+!data/dlt.json
+!data/dlt_merged.json
+
+# Model files
+models/
+!models/lottery_config.h
+
+# Source code
+src/
+
+# Notebooks
+notebooks/
+
+# Training files
+*.bin
+*.log
+training_full.log
+logs/
+
+# Python scripts (don't track these)
+*.py
+
+# ANE training directory
+ane_training/
+
+# macOS
+.DS_Store
