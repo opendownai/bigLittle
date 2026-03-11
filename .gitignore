@@ -20,6 +20,10 @@ notebooks/
 *.log
 training_full.log
 logs/
+TRAINING.md
+
+# Shell scripts
+*.sh
 
 # Python scripts (don't track these)
 *.py
