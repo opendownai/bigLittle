@@ -33,3 +33,6 @@ ane_training/
 
 # macOS
 .DS_Store
+
+# Sisyphus
+.sisyphus/
