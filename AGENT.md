@@ -3,6 +3,7 @@
 ## 重要更新 (2026-03-22)
 - 模型训练只使用2025年至今的数据 (173条)
 - 每次只预测1个号码
+- 模型从0开始训练，不继承之前的checkpoint
 
 ## 数据源
 - 官方PDF: `https://pdf.sporttery.cn/33800/{期号}/{期号}.pdf`
@@ -43,10 +44,13 @@ if not any(d['date'] == new_draw['date'] for d in data):
 python3 prepare_data.py --year 2025
 ```
 
-### 4. 启动模型训练
+### 4. 启动模型训练 (从0开始)
 ```bash
 cd $HOME/.openclaw/workspace/ane-training/training/training_dynamic
-./train --resume --data lottery_train.bin
+# 先停止之前的训练
+pkill -f "train"
+# 从0训练
+./train --scratch --data lottery_train.bin
 ```
 
 ### 5. 生成预测 (1个号码)
@@ -66,7 +70,7 @@ Lottery Prediction
 Generated on: 2026-03-23
 Based on 173 historical draws (2025+)
 
- 1. 02 09 14 18 26 + 05 12 (frequency)
+ 1. 13 16 18 23 29 + 02 11 (frequency)
 ```
 
 ### 7. 开奖后分析
@@ -88,11 +92,12 @@ git push origin main
 - 数据: `data/dlt_merged.json`
 - 预测: `pre/YYYY-MM-DD.txt`
 - 分析: `analysis/YYYY-MM-DD_analysis.md`
-- 模型: `$HOME/.openclaw/workspace/ane-training/training_training_dynamic/ane_lottery_*.bin`
+- 模型: `$HOME/.openclaw/workspace/ane-training/training/training_dynamic/ane_lottery_best_*.bin`
 - 训练数据: `data/lottery_train.bin`
 
-## 当前状态 (2026-03-22)
+## 当前状态 (2026-03-23)
 - 数据: 2108条 (2025年至今173条)
+- 训练完成: 100000步，最佳loss=0.0605
+- 最新模型: ane_lottery_best_25500_0.0605.bin
 - 最新开奖: 26029 (2026-03-21): 03 05 17 33 35 + 05 07
-- 下期预测: 2026-03-23
-- 等待数据: 26030+
+- 本期预测: 2026-03-23: 13 16 18 23 29 + 02 11
