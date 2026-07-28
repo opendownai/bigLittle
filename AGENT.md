@@ -1,103 +1,103 @@
 # Lottery Prediction Agent 工作流程
 
-## 重要更新 (2026-03-22)
-- 模型训练只使用2025年至今的数据 (173条)
-- 每次只预测1个号码
-- 模型从0开始训练，不继承之前的checkpoint
+## 原则
 
-## 数据源
-- 官方PDF: `https://pdf.sporttery.cn/33800/{期号}/{期号}.pdf`
-- 本地数据: `data/dlt_merged.json` (已在 .gitignore 中)
+- 只使用经过来源交叉核验的真实、连续开奖数据。
+- 当前数据范围固定为 2024、2025、2026 三个自然年，不按天或按期开奖滚动。
+- 所有训练、验证和预测严格按时间顺序；任何目标期只能使用它之前的数据。
+- 不因某一次留出结果较好就声称模型能够稳定预测随机开奖。
+- 开奖前允许基于真实数据修订预测，并记录数据和模型哈希；开奖后不得换号。
 
-## 完整工作流程
+## 1. 更新数据
 
-### 1. 获取最新开奖数据
 ```bash
-python3 -c "
-import requests, subprocess, re
-from pathlib import Path
-for issue in ['26030', '26031']:
-    url = f'https://pdf.sporttery.cn/33800/{issue}/{issue}.pdf'
-    # ... 下载并解析
-"
+python3 update_dlt_data.py
 ```
 
-### 2. 更新数据文件
+程序要求 GitHub 完整历史与中国体彩官方接口逐期完全一致后才写入：
+
+- `data/dlt_merged.json`
+- `data/dlt_merged.manifest.json`
+
+只核验、不写文件：
+
 ```bash
-python3 -c "
-import json
-from pathlib import Path
-new_draw = {'issueNumber': '260XX', 'date': 'YYYY-MM-DD', 'frontBalls': [...], 'backBalls': [...]}
-data_path = Path('data/dlt_merged.json')
-with open(data_path) as f:
-    data = json.load(f)
-if not any(d['date'] == new_draw['date'] for d in data):
-    data.append(new_draw)
-    data.sort(key=lambda x: x['date'])
-    with open(data_path, 'w') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-"
+python3 update_dlt_data.py --check-only
 ```
 
-### 3. 重新准备训练数据 (重要!)
+## 2. 时间留出评估 ANE
+
 ```bash
-python3 prepare_data.py --year 2025
+LOTTERY_HOLDOUT_DRAWS=72 ./start_training.sh scratch
+python3 models/ane_lottery_evaluator.py \
+  --checkpoint ane_training/snapshots/<run>/step_004000.bin \
+  --split validation
+python3 models/ane_lottery_evaluator.py \
+  --checkpoint ane_training/snapshots/<run>/step_004000.bin \
+  --split test
 ```
 
-### 4. 启动模型训练 (从0开始)
+最后 72 期分成 36 期验证集和 36 期测试集。验证集用于选 checkpoint，
+测试集只在选择完成后评估一次。
+
+## 3. 使用全部三年数据训练部署模型
+
 ```bash
-cd $HOME/.openclaw/workspace/ane-training/training/training_dynamic
-# 先停止之前的训练
-pkill -f "train"
-# 从0训练
-./train --scratch --data lottery_train.bin
+LOTTERY_HOLDOUT_DRAWS=0 \
+LOTTERY_SNAPSHOT_DIR="$PWD/ane_training/deploy/three_calendar_years_$(date +%Y%m%d)" \
+./start_training.sh scratch
 ```
 
-### 5. 生成预测 (1个号码)
+将选定的最终 checkpoint 放在本地 `models/`，并保留其 SHA-256。
+模型二进制和训练 token 文件是本机产物，不提交 Git。
+
+## 4. 生成一注预测
+
 ```bash
-source venv/bin/activate
-python3 generate_predictions.py --year 2025 --count 1
+python3 generate_predictions.py
 ```
 
-### 6. 写入预测文件
-```
-pre/YYYY-MM-DD.txt
-```
+默认使用 ANE。程序会核对数据 SHA、训练记录数、留出记录数和最新日期。
+预测分别写入不可回写的 `predictions/<期号>.json` 和可读的
+`pre/<期号>.txt`，同时记录数据范围、数据哈希、模型哈希和方法。
 
-格式 (只输出1注):
-```
-Lottery Prediction
-Generated on: 2026-03-23
-Based on 173 historical draws (2025+)
+## 5. 开奖后评估
 
- 1. 13 16 18 23 29 + 02 11 (frequency)
-```
+只在原预测文件或分析文件中追加真实开奖号码、前后区命中数和奖级，不覆盖原预测。
+模型比较应同时报告时间留出结果、频率基线和随机理论期望。
 
-### 7. 开奖后分析
+## 6. 提交
+
+先检查工作区，避免把用户原有或无关改动带入提交：
+
 ```bash
-python3 -c "
-actual = {'frontBalls': [...], 'backBalls': [...]}
-# ... 统计中奖
-"
-```
-
-### 8. 提交 GitHub
-```bash
-git add -A
-git commit -m "Add prediction for YYYY-MM-DD"
+git status --short
+git diff --check
+git add <本次明确修改的文件>
+git commit -m "Update audited data and ANE prediction"
 git push origin main
 ```
 
-## 关键文件
-- 数据: `data/dlt_merged.json`
-- 预测: `pre/YYYY-MM-DD.txt`
-- 分析: `analysis/YYYY-MM-DD_analysis.md`
-- 模型: `$HOME/.openclaw/workspace/ane-training/training/training_dynamic/ane_lottery_best_*.bin`
-- 训练数据: `data/lottery_train.bin`
+## 7. 自动闭环
 
-## 当前状态 (2026-03-23)
-- 数据: 2108条 (2025年至今173条)
-- 训练完成: 100000步，最佳loss=0.0605
-- 最新模型: ane_lottery_best_25500_0.0605.bin
-- 最新开奖: 26029 (2026-03-21): 03 05 17 33 35 + 05 07
-- 本期预测: 2026-03-23: 13 16 18 23 29 + 02 11
+```bash
+python3 automation/prediction_cycle.py --dry-run
+python3 automation/manage_schedule.py install
+python3 automation/manage_schedule.py status
+```
+
+调度任务每天 08:30 和 22:45 检查，但只在新期开奖且下一期预测不存在时训练。
+处理顺序固定为“更新真实数据 → 分析旧预测 → 重训 → 生成新预测”。
+
+LaunchAgent 会在一次闭环完整成功后提交并推送，但只暂存数据与来源清单、模型哈希、
+期号预测记录和自动结果分析。暂存区中出现任何白名单外文件时必须停止，不能代替用户
+提交其他改动。模型二进制、训练 token、ANE snapshot 和日志始终保持未跟踪。
+
+## 当前状态（2026-07-28）
+
+- 数据：386 期，24001 至 26084
+- 数据 SHA-256：`b24321b45baa9beeb91579d56d7f44399b1c5a5b41f613490c5c2ce858079fcd`
+- ANE：2 层、dim 64、85,312 参数、4,000 步
+- 模型 SHA-256：`13bc8a48b7ddf23aa7dac73fd5a679e6a3e5c4e524738c70a62c3cdbe015c53d`
+- 26085 期预测：`02 03 09 10 18 + 01 08`
+- 新规则从 26014 期起改变奖级与奖金，不改变选号或开奖号码空间

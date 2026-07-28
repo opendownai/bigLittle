@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "game": "超级大乐透",
+  "numberSpace": {
+    "front": {
+      "minimum": 1,
+      "maximum": 35,
+      "picks": 5
+    },
+    "back": {
+      "minimum": 1,
+      "maximum": 12,
+      "picks": 2
+    }
+  },
+  "versions": [
+    {
+      "id": "dlt-2026-seven-tiers",
+      "effectiveFromIssue": "26014",
+      "source": "https://static.sporttery.cn/res_1_0/cmsv2/upload/docfile/202601/1511220935li.pdf",
+      "tiers": {
+        "5+2": "一等奖",
+        "5+1": "二等奖",
+        "5+0": "三等奖",
+        "4+2": "三等奖",
+        "4+1": "四等奖",
+        "4+0": "五等奖",
+        "3+2": "五等奖",
+        "3+1": "六等奖",
+        "2+2": "六等奖",
+        "3+0": "七等奖",
+        "2+1": "七等奖",
+        "1+2": "七等奖",
+        "0+2": "七等奖"
+      },
+      "notes": "浮动奖金、奖池档位和派奖金额以当期官方公告为准。"
+    }
+  ]
+}

@@ -1,13 +1,16 @@
 # Lottery Prediction Project .gitignore
 
-# Data files (keep only the essential ones)
-data/
-!data/dlt.json
+# Data files (keep only the audited dataset and its provenance manifest)
+data/*
 !data/dlt_merged.json
+!data/dlt_merged.manifest.json
 
-# Model files
-models/
+# Model artifacts are local; keep the training source reviewable.
+models/*
 !models/lottery_config.h
+!models/lottery_trainer.py
+!models/ane_lottery_evaluator.py
+!models/ane_lottery_deploy.manifest.json
 
 # Source code
 src/
@@ -20,13 +23,24 @@ notebooks/
 *.log
 training_full.log
 logs/
-TRAINING.md
 
 # Shell scripts
 *.sh
+!start_training.sh
+!train_wrapper.sh
+!monitor_training.sh
+!automation/*.sh
 
 # Python scripts (don't track these)
 *.py
+!generate_predictions.py
+!prepare_data.py
+!update_dlt_data.py
+!models/lottery_trainer.py
+!models/ane_lottery_evaluator.py
+!automation/*.py
+__pycache__/
+*.py[cod]
 
 # ANE training directory
 ane_training/

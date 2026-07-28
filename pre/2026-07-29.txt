@@ -1,6 +1,13 @@
 Lottery Prediction
 Generated on: 2026-07-28
 For draw: 26085 (2026-07-29)
-Based on 228 historical draws (2025-01-15 through 2026-07-27)
+Based on 386 audited draws (2024-01-01 through 2026-07-27)
+Data SHA-256: b24321b45baa9beeb91579d56d7f44399b1c5a5b41f613490c5c2ce858079fcd
+Model SHA-256: 13bc8a48b7ddf23aa7dac73fd5a679e6a3e5c4e524738c70a62c3cdbe015c53d
+Method: ANE autoregressive masked, 2 layers / dim 64 / 4,000 steps
 
- 1. 06 13 15 20 33 + 08 11 (frequency)
+ 1. 02 03 09 10 18 + 01 08 (ane_autoregressive_masked)
+
+This pre-draw revision replaces the earlier frequency draft after correcting and
+auditing the dataset. The previous draft remains in Git history. Do not revise
+this prediction after the draw; only append the actual result and evaluation.

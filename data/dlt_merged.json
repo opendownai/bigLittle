@@ -1,0 +1,5792 @@
+[
+  {
+    "issueNumber": "24001",
+    "date": "2024-01-01",
+    "frontBalls": [
+      3,
+      9,
+      17,
+      26,
+      35
+    ],
+    "backBalls": [
+      2,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24002",
+    "date": "2024-01-03",
+    "frontBalls": [
+      1,
+      6,
+      8,
+      27,
+      32
+    ],
+    "backBalls": [
+      3,
+      4
+    ]
+  },
+  {
+    "issueNumber": "24003",
+    "date": "2024-01-06",
+    "frontBalls": [
+      7,
+      9,
+      12,
+      23,
+      29
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "24004",
+    "date": "2024-01-08",
+    "frontBalls": [
+      2,
+      6,
+      18,
+      19,
+      27
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24005",
+    "date": "2024-01-10",
+    "frontBalls": [
+      3,
+      5,
+      7,
+      9,
+      12
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24006",
+    "date": "2024-01-13",
+    "frontBalls": [
+      8,
+      13,
+      16,
+      17,
+      33
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24007",
+    "date": "2024-01-15",
+    "frontBalls": [
+      4,
+      5,
+      28,
+      34,
+      35
+    ],
+    "backBalls": [
+      4,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24008",
+    "date": "2024-01-17",
+    "frontBalls": [
+      4,
+      6,
+      11,
+      20,
+      30
+    ],
+    "backBalls": [
+      3,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24009",
+    "date": "2024-01-20",
+    "frontBalls": [
+      15,
+      18,
+      19,
+      24,
+      26
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24010",
+    "date": "2024-01-22",
+    "frontBalls": [
+      2,
+      8,
+      10,
+      15,
+      27
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24011",
+    "date": "2024-01-24",
+    "frontBalls": [
+      1,
+      3,
+      27,
+      32,
+      34
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24012",
+    "date": "2024-01-27",
+    "frontBalls": [
+      21,
+      22,
+      25,
+      26,
+      34
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24013",
+    "date": "2024-01-29",
+    "frontBalls": [
+      5,
+      22,
+      25,
+      28,
+      30
+    ],
+    "backBalls": [
+      3,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24014",
+    "date": "2024-01-31",
+    "frontBalls": [
+      4,
+      5,
+      16,
+      21,
+      31
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24015",
+    "date": "2024-02-03",
+    "frontBalls": [
+      8,
+      11,
+      14,
+      24,
+      31
+    ],
+    "backBalls": [
+      5,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24016",
+    "date": "2024-02-05",
+    "frontBalls": [
+      15,
+      18,
+      25,
+      27,
+      29
+    ],
+    "backBalls": [
+      6,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24017",
+    "date": "2024-02-07",
+    "frontBalls": [
+      3,
+      7,
+      25,
+      27,
+      35
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "24018",
+    "date": "2024-02-19",
+    "frontBalls": [
+      4,
+      12,
+      19,
+      25,
+      27
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24019",
+    "date": "2024-02-21",
+    "frontBalls": [
+      19,
+      20,
+      26,
+      29,
+      30
+    ],
+    "backBalls": [
+      3,
+      4
+    ]
+  },
+  {
+    "issueNumber": "24020",
+    "date": "2024-02-24",
+    "frontBalls": [
+      2,
+      4,
+      8,
+      19,
+      26
+    ],
+    "backBalls": [
+      2,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24021",
+    "date": "2024-02-26",
+    "frontBalls": [
+      1,
+      12,
+      16,
+      20,
+      28
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24022",
+    "date": "2024-02-28",
+    "frontBalls": [
+      7,
+      9,
+      11,
+      31,
+      32
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24023",
+    "date": "2024-03-02",
+    "frontBalls": [
+      8,
+      10,
+      12,
+      14,
+      22
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24024",
+    "date": "2024-03-04",
+    "frontBalls": [
+      3,
+      5,
+      12,
+      17,
+      26
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24025",
+    "date": "2024-03-06",
+    "frontBalls": [
+      1,
+      2,
+      8,
+      18,
+      27
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24026",
+    "date": "2024-03-09",
+    "frontBalls": [
+      1,
+      18,
+      21,
+      26,
+      33
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24027",
+    "date": "2024-03-11",
+    "frontBalls": [
+      8,
+      9,
+      16,
+      22,
+      23
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24028",
+    "date": "2024-03-13",
+    "frontBalls": [
+      13,
+      18,
+      20,
+      26,
+      28
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24029",
+    "date": "2024-03-16",
+    "frontBalls": [
+      4,
+      19,
+      24,
+      28,
+      34
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24030",
+    "date": "2024-03-18",
+    "frontBalls": [
+      8,
+      9,
+      11,
+      19,
+      30
+    ],
+    "backBalls": [
+      6,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24031",
+    "date": "2024-03-20",
+    "frontBalls": [
+      9,
+      12,
+      15,
+      30,
+      34
+    ],
+    "backBalls": [
+      5,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24032",
+    "date": "2024-03-23",
+    "frontBalls": [
+      5,
+      15,
+      26,
+      33,
+      35
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24033",
+    "date": "2024-03-25",
+    "frontBalls": [
+      4,
+      8,
+      10,
+      11,
+      15
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24034",
+    "date": "2024-03-27",
+    "frontBalls": [
+      23,
+      26,
+      27,
+      29,
+      33
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24035",
+    "date": "2024-03-30",
+    "frontBalls": [
+      5,
+      13,
+      17,
+      29,
+      33
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24036",
+    "date": "2024-04-01",
+    "frontBalls": [
+      2,
+      5,
+      11,
+      32,
+      34
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24037",
+    "date": "2024-04-03",
+    "frontBalls": [
+      17,
+      19,
+      20,
+      29,
+      35
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24038",
+    "date": "2024-04-06",
+    "frontBalls": [
+      15,
+      22,
+      24,
+      25,
+      29
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24039",
+    "date": "2024-04-08",
+    "frontBalls": [
+      3,
+      10,
+      11,
+      20,
+      22
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24040",
+    "date": "2024-04-10",
+    "frontBalls": [
+      5,
+      12,
+      16,
+      29,
+      30
+    ],
+    "backBalls": [
+      3,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24041",
+    "date": "2024-04-13",
+    "frontBalls": [
+      6,
+      8,
+      14,
+      16,
+      28
+    ],
+    "backBalls": [
+      3,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24042",
+    "date": "2024-04-15",
+    "frontBalls": [
+      1,
+      8,
+      15,
+      23,
+      35
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24043",
+    "date": "2024-04-17",
+    "frontBalls": [
+      3,
+      4,
+      8,
+      14,
+      27
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24044",
+    "date": "2024-04-20",
+    "frontBalls": [
+      3,
+      13,
+      15,
+      17,
+      22
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24045",
+    "date": "2024-04-22",
+    "frontBalls": [
+      9,
+      10,
+      14,
+      31,
+      32
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24046",
+    "date": "2024-04-24",
+    "frontBalls": [
+      6,
+      12,
+      17,
+      29,
+      30
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24047",
+    "date": "2024-04-27",
+    "frontBalls": [
+      11,
+      19,
+      21,
+      26,
+      35
+    ],
+    "backBalls": [
+      10,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24048",
+    "date": "2024-04-29",
+    "frontBalls": [
+      12,
+      18,
+      21,
+      26,
+      28
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24049",
+    "date": "2024-05-01",
+    "frontBalls": [
+      4,
+      6,
+      9,
+      10,
+      22
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24050",
+    "date": "2024-05-04",
+    "frontBalls": [
+      3,
+      4,
+      14,
+      18,
+      26
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24051",
+    "date": "2024-05-06",
+    "frontBalls": [
+      5,
+      21,
+      22,
+      23,
+      29
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "24052",
+    "date": "2024-05-08",
+    "frontBalls": [
+      2,
+      3,
+      13,
+      22,
+      34
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24053",
+    "date": "2024-05-11",
+    "frontBalls": [
+      1,
+      7,
+      19,
+      20,
+      35
+    ],
+    "backBalls": [
+      3,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24054",
+    "date": "2024-05-13",
+    "frontBalls": [
+      5,
+      6,
+      9,
+      11,
+      22
+    ],
+    "backBalls": [
+      1,
+      3
+    ]
+  },
+  {
+    "issueNumber": "24055",
+    "date": "2024-05-15",
+    "frontBalls": [
+      7,
+      17,
+      22,
+      30,
+      34
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24056",
+    "date": "2024-05-18",
+    "frontBalls": [
+      16,
+      17,
+      18,
+      27,
+      35
+    ],
+    "backBalls": [
+      6,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24057",
+    "date": "2024-05-20",
+    "frontBalls": [
+      9,
+      25,
+      30,
+      33,
+      34
+    ],
+    "backBalls": [
+      3,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24058",
+    "date": "2024-05-22",
+    "frontBalls": [
+      6,
+      10,
+      13,
+      20,
+      32
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "24059",
+    "date": "2024-05-25",
+    "frontBalls": [
+      17,
+      18,
+      20,
+      25,
+      31
+    ],
+    "backBalls": [
+      3,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24060",
+    "date": "2024-05-27",
+    "frontBalls": [
+      3,
+      21,
+      25,
+      28,
+      30
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24061",
+    "date": "2024-05-29",
+    "frontBalls": [
+      1,
+      12,
+      19,
+      31,
+      33
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24062",
+    "date": "2024-06-01",
+    "frontBalls": [
+      5,
+      14,
+      15,
+      16,
+      33
+    ],
+    "backBalls": [
+      3,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24063",
+    "date": "2024-06-03",
+    "frontBalls": [
+      7,
+      12,
+      16,
+      33,
+      34
+    ],
+    "backBalls": [
+      1,
+      3
+    ]
+  },
+  {
+    "issueNumber": "24064",
+    "date": "2024-06-05",
+    "frontBalls": [
+      5,
+      12,
+      21,
+      32,
+      33
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24065",
+    "date": "2024-06-08",
+    "frontBalls": [
+      5,
+      10,
+      18,
+      26,
+      27
+    ],
+    "backBalls": [
+      3,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24066",
+    "date": "2024-06-10",
+    "frontBalls": [
+      13,
+      19,
+      20,
+      24,
+      25
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24067",
+    "date": "2024-06-12",
+    "frontBalls": [
+      3,
+      11,
+      14,
+      20,
+      22
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24068",
+    "date": "2024-06-15",
+    "frontBalls": [
+      15,
+      20,
+      31,
+      32,
+      33
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24069",
+    "date": "2024-06-17",
+    "frontBalls": [
+      7,
+      9,
+      16,
+      20,
+      24
+    ],
+    "backBalls": [
+      3,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24070",
+    "date": "2024-06-19",
+    "frontBalls": [
+      4,
+      20,
+      21,
+      32,
+      34
+    ],
+    "backBalls": [
+      2,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24071",
+    "date": "2024-06-22",
+    "frontBalls": [
+      6,
+      10,
+      15,
+      34,
+      35
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24072",
+    "date": "2024-06-24",
+    "frontBalls": [
+      4,
+      17,
+      21,
+      23,
+      32
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24073",
+    "date": "2024-06-26",
+    "frontBalls": [
+      7,
+      9,
+      12,
+      21,
+      23
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24074",
+    "date": "2024-06-29",
+    "frontBalls": [
+      2,
+      10,
+      11,
+      21,
+      27
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24075",
+    "date": "2024-07-01",
+    "frontBalls": [
+      8,
+      17,
+      26,
+      28,
+      32
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24076",
+    "date": "2024-07-03",
+    "frontBalls": [
+      1,
+      6,
+      22,
+      27,
+      35
+    ],
+    "backBalls": [
+      7,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24077",
+    "date": "2024-07-06",
+    "frontBalls": [
+      1,
+      3,
+      25,
+      26,
+      29
+    ],
+    "backBalls": [
+      6,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24078",
+    "date": "2024-07-08",
+    "frontBalls": [
+      5,
+      7,
+      10,
+      14,
+      15
+    ],
+    "backBalls": [
+      4,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24079",
+    "date": "2024-07-10",
+    "frontBalls": [
+      3,
+      8,
+      17,
+      18,
+      23
+    ],
+    "backBalls": [
+      6,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24080",
+    "date": "2024-07-13",
+    "frontBalls": [
+      3,
+      5,
+      24,
+      27,
+      28
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24081",
+    "date": "2024-07-15",
+    "frontBalls": [
+      14,
+      15,
+      25,
+      27,
+      34
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24082",
+    "date": "2024-07-17",
+    "frontBalls": [
+      8,
+      21,
+      23,
+      24,
+      26
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24083",
+    "date": "2024-07-20",
+    "frontBalls": [
+      9,
+      11,
+      12,
+      13,
+      30
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24084",
+    "date": "2024-07-22",
+    "frontBalls": [
+      4,
+      11,
+      16,
+      17,
+      23
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24085",
+    "date": "2024-07-24",
+    "frontBalls": [
+      2,
+      9,
+      16,
+      29,
+      35
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24086",
+    "date": "2024-07-27",
+    "frontBalls": [
+      11,
+      12,
+      14,
+      22,
+      28
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24087",
+    "date": "2024-07-29",
+    "frontBalls": [
+      7,
+      10,
+      20,
+      28,
+      34
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24088",
+    "date": "2024-07-31",
+    "frontBalls": [
+      1,
+      2,
+      23,
+      28,
+      32
+    ],
+    "backBalls": [
+      3,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24089",
+    "date": "2024-08-03",
+    "frontBalls": [
+      5,
+      6,
+      29,
+      30,
+      34
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24090",
+    "date": "2024-08-05",
+    "frontBalls": [
+      2,
+      3,
+      6,
+      28,
+      33
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24091",
+    "date": "2024-08-07",
+    "frontBalls": [
+      1,
+      8,
+      11,
+      17,
+      21
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "24092",
+    "date": "2024-08-10",
+    "frontBalls": [
+      2,
+      4,
+      25,
+      26,
+      31
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24093",
+    "date": "2024-08-12",
+    "frontBalls": [
+      16,
+      24,
+      26,
+      28,
+      29
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24094",
+    "date": "2024-08-14",
+    "frontBalls": [
+      12,
+      13,
+      24,
+      29,
+      31
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24095",
+    "date": "2024-08-17",
+    "frontBalls": [
+      1,
+      7,
+      19,
+      26,
+      27
+    ],
+    "backBalls": [
+      3,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24096",
+    "date": "2024-08-19",
+    "frontBalls": [
+      2,
+      3,
+      23,
+      27,
+      31
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24097",
+    "date": "2024-08-21",
+    "frontBalls": [
+      7,
+      11,
+      12,
+      14,
+      19
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24098",
+    "date": "2024-08-24",
+    "frontBalls": [
+      3,
+      10,
+      15,
+      19,
+      29
+    ],
+    "backBalls": [
+      9,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24099",
+    "date": "2024-08-26",
+    "frontBalls": [
+      4,
+      10,
+      24,
+      31,
+      35
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24100",
+    "date": "2024-08-28",
+    "frontBalls": [
+      2,
+      12,
+      19,
+      22,
+      32
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24101",
+    "date": "2024-08-31",
+    "frontBalls": [
+      16,
+      19,
+      22,
+      27,
+      35
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24102",
+    "date": "2024-09-02",
+    "frontBalls": [
+      1,
+      5,
+      9,
+      14,
+      20
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24103",
+    "date": "2024-09-04",
+    "frontBalls": [
+      19,
+      21,
+      29,
+      32,
+      33
+    ],
+    "backBalls": [
+      6,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24104",
+    "date": "2024-09-07",
+    "frontBalls": [
+      1,
+      4,
+      9,
+      13,
+      17
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24105",
+    "date": "2024-09-09",
+    "frontBalls": [
+      14,
+      20,
+      21,
+      28,
+      32
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24106",
+    "date": "2024-09-11",
+    "frontBalls": [
+      5,
+      11,
+      19,
+      22,
+      29
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24107",
+    "date": "2024-09-14",
+    "frontBalls": [
+      6,
+      14,
+      16,
+      18,
+      34
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24108",
+    "date": "2024-09-16",
+    "frontBalls": [
+      16,
+      17,
+      21,
+      31,
+      34
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24109",
+    "date": "2024-09-18",
+    "frontBalls": [
+      12,
+      23,
+      26,
+      27,
+      28
+    ],
+    "backBalls": [
+      3,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24110",
+    "date": "2024-09-21",
+    "frontBalls": [
+      1,
+      7,
+      8,
+      18,
+      28
+    ],
+    "backBalls": [
+      4,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24111",
+    "date": "2024-09-23",
+    "frontBalls": [
+      3,
+      9,
+      19,
+      27,
+      30
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24112",
+    "date": "2024-09-25",
+    "frontBalls": [
+      5,
+      15,
+      24,
+      31,
+      34
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24113",
+    "date": "2024-09-28",
+    "frontBalls": [
+      16,
+      18,
+      25,
+      26,
+      33
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24114",
+    "date": "2024-09-30",
+    "frontBalls": [
+      12,
+      27,
+      30,
+      34,
+      35
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24115",
+    "date": "2024-10-05",
+    "frontBalls": [
+      3,
+      4,
+      12,
+      19,
+      24
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24116",
+    "date": "2024-10-07",
+    "frontBalls": [
+      1,
+      3,
+      6,
+      16,
+      25
+    ],
+    "backBalls": [
+      1,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24117",
+    "date": "2024-10-09",
+    "frontBalls": [
+      2,
+      10,
+      22,
+      26,
+      28
+    ],
+    "backBalls": [
+      2,
+      4
+    ]
+  },
+  {
+    "issueNumber": "24118",
+    "date": "2024-10-12",
+    "frontBalls": [
+      1,
+      3,
+      9,
+      16,
+      19
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24119",
+    "date": "2024-10-14",
+    "frontBalls": [
+      6,
+      12,
+      28,
+      30,
+      33
+    ],
+    "backBalls": [
+      2,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24120",
+    "date": "2024-10-16",
+    "frontBalls": [
+      4,
+      12,
+      17,
+      23,
+      27
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24121",
+    "date": "2024-10-19",
+    "frontBalls": [
+      7,
+      15,
+      18,
+      24,
+      33
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24122",
+    "date": "2024-10-21",
+    "frontBalls": [
+      5,
+      6,
+      9,
+      15,
+      17
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24123",
+    "date": "2024-10-23",
+    "frontBalls": [
+      3,
+      9,
+      16,
+      30,
+      31
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24124",
+    "date": "2024-10-26",
+    "frontBalls": [
+      2,
+      3,
+      7,
+      10,
+      25
+    ],
+    "backBalls": [
+      1,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24125",
+    "date": "2024-10-28",
+    "frontBalls": [
+      10,
+      14,
+      19,
+      24,
+      26
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24126",
+    "date": "2024-10-30",
+    "frontBalls": [
+      2,
+      10,
+      17,
+      28,
+      34
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24127",
+    "date": "2024-11-02",
+    "frontBalls": [
+      2,
+      3,
+      10,
+      16,
+      28
+    ],
+    "backBalls": [
+      7,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24128",
+    "date": "2024-11-04",
+    "frontBalls": [
+      3,
+      7,
+      10,
+      29,
+      31
+    ],
+    "backBalls": [
+      1,
+      3
+    ]
+  },
+  {
+    "issueNumber": "24129",
+    "date": "2024-11-06",
+    "frontBalls": [
+      7,
+      19,
+      30,
+      31,
+      34
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24130",
+    "date": "2024-11-09",
+    "frontBalls": [
+      11,
+      21,
+      25,
+      31,
+      32
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24131",
+    "date": "2024-11-11",
+    "frontBalls": [
+      2,
+      3,
+      4,
+      21,
+      26
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "24132",
+    "date": "2024-11-13",
+    "frontBalls": [
+      5,
+      6,
+      10,
+      16,
+      31
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24133",
+    "date": "2024-11-16",
+    "frontBalls": [
+      8,
+      10,
+      14,
+      22,
+      29
+    ],
+    "backBalls": [
+      4,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24134",
+    "date": "2024-11-18",
+    "frontBalls": [
+      1,
+      4,
+      7,
+      13,
+      33
+    ],
+    "backBalls": [
+      5,
+      6
+    ]
+  },
+  {
+    "issueNumber": "24135",
+    "date": "2024-11-20",
+    "frontBalls": [
+      6,
+      8,
+      22,
+      24,
+      30
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24136",
+    "date": "2024-11-23",
+    "frontBalls": [
+      1,
+      17,
+      20,
+      29,
+      34
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "24137",
+    "date": "2024-11-25",
+    "frontBalls": [
+      8,
+      15,
+      16,
+      17,
+      21
+    ],
+    "backBalls": [
+      2,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24138",
+    "date": "2024-11-27",
+    "frontBalls": [
+      5,
+      17,
+      20,
+      28,
+      34
+    ],
+    "backBalls": [
+      4,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24139",
+    "date": "2024-11-30",
+    "frontBalls": [
+      5,
+      12,
+      20,
+      23,
+      24
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24140",
+    "date": "2024-12-02",
+    "frontBalls": [
+      3,
+      6,
+      15,
+      23,
+      31
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "24141",
+    "date": "2024-12-04",
+    "frontBalls": [
+      2,
+      6,
+      7,
+      16,
+      20
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24142",
+    "date": "2024-12-07",
+    "frontBalls": [
+      8,
+      21,
+      24,
+      33,
+      34
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "24143",
+    "date": "2024-12-09",
+    "frontBalls": [
+      16,
+      20,
+      22,
+      24,
+      31
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24144",
+    "date": "2024-12-11",
+    "frontBalls": [
+      6,
+      7,
+      8,
+      21,
+      30
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "24145",
+    "date": "2024-12-14",
+    "frontBalls": [
+      1,
+      6,
+      9,
+      22,
+      24
+    ],
+    "backBalls": [
+      1,
+      3
+    ]
+  },
+  {
+    "issueNumber": "24146",
+    "date": "2024-12-16",
+    "frontBalls": [
+      5,
+      20,
+      21,
+      22,
+      32
+    ],
+    "backBalls": [
+      3,
+      4
+    ]
+  },
+  {
+    "issueNumber": "24147",
+    "date": "2024-12-18",
+    "frontBalls": [
+      12,
+      18,
+      21,
+      22,
+      31
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24148",
+    "date": "2024-12-21",
+    "frontBalls": [
+      6,
+      9,
+      20,
+      32,
+      35
+    ],
+    "backBalls": [
+      8,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24149",
+    "date": "2024-12-23",
+    "frontBalls": [
+      2,
+      5,
+      16,
+      18,
+      22
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "24150",
+    "date": "2024-12-25",
+    "frontBalls": [
+      4,
+      11,
+      23,
+      25,
+      34
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "24151",
+    "date": "2024-12-28",
+    "frontBalls": [
+      5,
+      12,
+      17,
+      19,
+      35
+    ],
+    "backBalls": [
+      10,
+      11
+    ]
+  },
+  {
+    "issueNumber": "24152",
+    "date": "2024-12-30",
+    "frontBalls": [
+      1,
+      2,
+      7,
+      8,
+      31
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25001",
+    "date": "2025-01-01",
+    "frontBalls": [
+      5,
+      8,
+      16,
+      17,
+      27
+    ],
+    "backBalls": [
+      4,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25002",
+    "date": "2025-01-04",
+    "frontBalls": [
+      19,
+      21,
+      22,
+      28,
+      32
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25003",
+    "date": "2025-01-06",
+    "frontBalls": [
+      10,
+      25,
+      30,
+      32,
+      34
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25004",
+    "date": "2025-01-08",
+    "frontBalls": [
+      2,
+      5,
+      9,
+      13,
+      33
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25005",
+    "date": "2025-01-11",
+    "frontBalls": [
+      5,
+      6,
+      8,
+      31,
+      32
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25006",
+    "date": "2025-01-13",
+    "frontBalls": [
+      3,
+      4,
+      13,
+      19,
+      35
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25007",
+    "date": "2025-01-15",
+    "frontBalls": [
+      15,
+      22,
+      23,
+      25,
+      31
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25008",
+    "date": "2025-01-18",
+    "frontBalls": [
+      1,
+      5,
+      7,
+      13,
+      35
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25009",
+    "date": "2025-01-20",
+    "frontBalls": [
+      3,
+      19,
+      21,
+      30,
+      32
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25010",
+    "date": "2025-01-22",
+    "frontBalls": [
+      5,
+      21,
+      28,
+      30,
+      32
+    ],
+    "backBalls": [
+      7,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25011",
+    "date": "2025-01-25",
+    "frontBalls": [
+      3,
+      6,
+      7,
+      11,
+      27
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25012",
+    "date": "2025-02-08",
+    "frontBalls": [
+      2,
+      18,
+      19,
+      21,
+      25
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25013",
+    "date": "2025-02-10",
+    "frontBalls": [
+      14,
+      16,
+      18,
+      20,
+      35
+    ],
+    "backBalls": [
+      2,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25014",
+    "date": "2025-02-12",
+    "frontBalls": [
+      5,
+      19,
+      22,
+      29,
+      35
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25015",
+    "date": "2025-02-15",
+    "frontBalls": [
+      7,
+      10,
+      24,
+      31,
+      35
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25016",
+    "date": "2025-02-17",
+    "frontBalls": [
+      5,
+      7,
+      12,
+      20,
+      29
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25017",
+    "date": "2025-02-19",
+    "frontBalls": [
+      10,
+      12,
+      26,
+      28,
+      31
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25018",
+    "date": "2025-02-22",
+    "frontBalls": [
+      1,
+      7,
+      9,
+      20,
+      28
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25019",
+    "date": "2025-02-24",
+    "frontBalls": [
+      7,
+      8,
+      11,
+      18,
+      23
+    ],
+    "backBalls": [
+      3,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25020",
+    "date": "2025-02-26",
+    "frontBalls": [
+      1,
+      9,
+      12,
+      22,
+      29
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25021",
+    "date": "2025-03-01",
+    "frontBalls": [
+      10,
+      18,
+      25,
+      30,
+      35
+    ],
+    "backBalls": [
+      3,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25022",
+    "date": "2025-03-03",
+    "frontBalls": [
+      1,
+      11,
+      13,
+      27,
+      29
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25023",
+    "date": "2025-03-05",
+    "frontBalls": [
+      10,
+      20,
+      22,
+      24,
+      25
+    ],
+    "backBalls": [
+      9,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25024",
+    "date": "2025-03-08",
+    "frontBalls": [
+      6,
+      12,
+      13,
+      16,
+      23
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25025",
+    "date": "2025-03-10",
+    "frontBalls": [
+      3,
+      6,
+      8,
+      10,
+      25
+    ],
+    "backBalls": [
+      3,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25026",
+    "date": "2025-03-12",
+    "frontBalls": [
+      2,
+      3,
+      7,
+      17,
+      30
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25027",
+    "date": "2025-03-15",
+    "frontBalls": [
+      3,
+      6,
+      11,
+      13,
+      20
+    ],
+    "backBalls": [
+      1,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25028",
+    "date": "2025-03-17",
+    "frontBalls": [
+      6,
+      8,
+      20,
+      25,
+      29
+    ],
+    "backBalls": [
+      3,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25029",
+    "date": "2025-03-19",
+    "frontBalls": [
+      5,
+      9,
+      26,
+      31,
+      33
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25030",
+    "date": "2025-03-22",
+    "frontBalls": [
+      3,
+      9,
+      14,
+      24,
+      28
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25031",
+    "date": "2025-03-24",
+    "frontBalls": [
+      14,
+      18,
+      20,
+      25,
+      35
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25032",
+    "date": "2025-03-26",
+    "frontBalls": [
+      12,
+      22,
+      25,
+      27,
+      28
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "25033",
+    "date": "2025-03-29",
+    "frontBalls": [
+      1,
+      2,
+      8,
+      10,
+      33
+    ],
+    "backBalls": [
+      10,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25034",
+    "date": "2025-03-31",
+    "frontBalls": [
+      4,
+      15,
+      22,
+      28,
+      33
+    ],
+    "backBalls": [
+      6,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25035",
+    "date": "2025-04-02",
+    "frontBalls": [
+      22,
+      25,
+      28,
+      29,
+      30
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25036",
+    "date": "2025-04-05",
+    "frontBalls": [
+      4,
+      7,
+      13,
+      27,
+      30
+    ],
+    "backBalls": [
+      2,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25037",
+    "date": "2025-04-07",
+    "frontBalls": [
+      5,
+      20,
+      23,
+      27,
+      31
+    ],
+    "backBalls": [
+      4,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25038",
+    "date": "2025-04-09",
+    "frontBalls": [
+      7,
+      8,
+      20,
+      26,
+      34
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25039",
+    "date": "2025-04-12",
+    "frontBalls": [
+      3,
+      7,
+      14,
+      15,
+      19
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25040",
+    "date": "2025-04-14",
+    "frontBalls": [
+      2,
+      8,
+      16,
+      31,
+      32
+    ],
+    "backBalls": [
+      4,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25041",
+    "date": "2025-04-16",
+    "frontBalls": [
+      3,
+      4,
+      21,
+      22,
+      27
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25042",
+    "date": "2025-04-19",
+    "frontBalls": [
+      6,
+      8,
+      11,
+      18,
+      20
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25043",
+    "date": "2025-04-21",
+    "frontBalls": [
+      3,
+      16,
+      20,
+      21,
+      27
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25044",
+    "date": "2025-04-23",
+    "frontBalls": [
+      15,
+      17,
+      21,
+      22,
+      26
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25045",
+    "date": "2025-04-26",
+    "frontBalls": [
+      8,
+      11,
+      21,
+      23,
+      27
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25046",
+    "date": "2025-04-28",
+    "frontBalls": [
+      4,
+      10,
+      15,
+      20,
+      34
+    ],
+    "backBalls": [
+      4,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25047",
+    "date": "2025-04-30",
+    "frontBalls": [
+      3,
+      10,
+      11,
+      12,
+      21
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "25048",
+    "date": "2025-05-03",
+    "frontBalls": [
+      2,
+      6,
+      17,
+      23,
+      35
+    ],
+    "backBalls": [
+      6,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25049",
+    "date": "2025-05-05",
+    "frontBalls": [
+      9,
+      20,
+      22,
+      29,
+      34
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25050",
+    "date": "2025-05-07",
+    "frontBalls": [
+      15,
+      18,
+      20,
+      21,
+      34
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25051",
+    "date": "2025-05-10",
+    "frontBalls": [
+      2,
+      4,
+      13,
+      29,
+      31
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25052",
+    "date": "2025-05-12",
+    "frontBalls": [
+      2,
+      4,
+      11,
+      29,
+      30
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25053",
+    "date": "2025-05-14",
+    "frontBalls": [
+      14,
+      23,
+      29,
+      30,
+      33
+    ],
+    "backBalls": [
+      6,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25054",
+    "date": "2025-05-17",
+    "frontBalls": [
+      3,
+      12,
+      16,
+      21,
+      29
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "25055",
+    "date": "2025-05-19",
+    "frontBalls": [
+      8,
+      10,
+      25,
+      29,
+      30
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "25056",
+    "date": "2025-05-21",
+    "frontBalls": [
+      12,
+      15,
+      28,
+      29,
+      32
+    ],
+    "backBalls": [
+      8,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25057",
+    "date": "2025-05-24",
+    "frontBalls": [
+      9,
+      10,
+      11,
+      12,
+      29
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25058",
+    "date": "2025-05-26",
+    "frontBalls": [
+      6,
+      11,
+      15,
+      21,
+      23
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25059",
+    "date": "2025-05-28",
+    "frontBalls": [
+      3,
+      9,
+      10,
+      11,
+      26
+    ],
+    "backBalls": [
+      1,
+      2
+    ]
+  },
+  {
+    "issueNumber": "25060",
+    "date": "2025-05-31",
+    "frontBalls": [
+      12,
+      14,
+      19,
+      33,
+      34
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25061",
+    "date": "2025-06-02",
+    "frontBalls": [
+      2,
+      11,
+      16,
+      23,
+      28
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25062",
+    "date": "2025-06-04",
+    "frontBalls": [
+      14,
+      20,
+      27,
+      28,
+      29
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25063",
+    "date": "2025-06-07",
+    "frontBalls": [
+      5,
+      18,
+      26,
+      29,
+      32
+    ],
+    "backBalls": [
+      7,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25064",
+    "date": "2025-06-09",
+    "frontBalls": [
+      5,
+      10,
+      18,
+      20,
+      34
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25065",
+    "date": "2025-06-11",
+    "frontBalls": [
+      7,
+      25,
+      32,
+      33,
+      35
+    ],
+    "backBalls": [
+      4,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25066",
+    "date": "2025-06-14",
+    "frontBalls": [
+      15,
+      18,
+      27,
+      28,
+      34
+    ],
+    "backBalls": [
+      3,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25067",
+    "date": "2025-06-16",
+    "frontBalls": [
+      6,
+      10,
+      12,
+      21,
+      22
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25068",
+    "date": "2025-06-18",
+    "frontBalls": [
+      1,
+      4,
+      17,
+      20,
+      22
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25069",
+    "date": "2025-06-21",
+    "frontBalls": [
+      4,
+      6,
+      7,
+      33,
+      34
+    ],
+    "backBalls": [
+      9,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25070",
+    "date": "2025-06-23",
+    "frontBalls": [
+      8,
+      9,
+      15,
+      20,
+      22
+    ],
+    "backBalls": [
+      4,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25071",
+    "date": "2025-06-25",
+    "frontBalls": [
+      1,
+      8,
+      25,
+      31,
+      33
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25072",
+    "date": "2025-06-28",
+    "frontBalls": [
+      4,
+      7,
+      15,
+      24,
+      29
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25073",
+    "date": "2025-06-30",
+    "frontBalls": [
+      1,
+      4,
+      17,
+      33,
+      34
+    ],
+    "backBalls": [
+      3,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25074",
+    "date": "2025-07-02",
+    "frontBalls": [
+      2,
+      11,
+      15,
+      18,
+      21
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25075",
+    "date": "2025-07-05",
+    "frontBalls": [
+      8,
+      12,
+      16,
+      19,
+      35
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25076",
+    "date": "2025-07-07",
+    "frontBalls": [
+      11,
+      18,
+      22,
+      25,
+      29
+    ],
+    "backBalls": [
+      4,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25077",
+    "date": "2025-07-09",
+    "frontBalls": [
+      12,
+      14,
+      16,
+      19,
+      28
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25078",
+    "date": "2025-07-12",
+    "frontBalls": [
+      7,
+      10,
+      15,
+      21,
+      24
+    ],
+    "backBalls": [
+      5,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25079",
+    "date": "2025-07-14",
+    "frontBalls": [
+      2,
+      14,
+      32,
+      34,
+      35
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25080",
+    "date": "2025-07-16",
+    "frontBalls": [
+      9,
+      10,
+      18,
+      22,
+      24
+    ],
+    "backBalls": [
+      3,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25081",
+    "date": "2025-07-19",
+    "frontBalls": [
+      1,
+      4,
+      6,
+      15,
+      18
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "25082",
+    "date": "2025-07-21",
+    "frontBalls": [
+      2,
+      3,
+      4,
+      12,
+      26
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25083",
+    "date": "2025-07-23",
+    "frontBalls": [
+      12,
+      17,
+      18,
+      20,
+      34
+    ],
+    "backBalls": [
+      2,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25084",
+    "date": "2025-07-26",
+    "frontBalls": [
+      9,
+      11,
+      13,
+      18,
+      29
+    ],
+    "backBalls": [
+      4,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25085",
+    "date": "2025-07-28",
+    "frontBalls": [
+      2,
+      5,
+      9,
+      14,
+      33
+    ],
+    "backBalls": [
+      4,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25086",
+    "date": "2025-07-30",
+    "frontBalls": [
+      2,
+      6,
+      23,
+      24,
+      33
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25087",
+    "date": "2025-08-02",
+    "frontBalls": [
+      5,
+      13,
+      14,
+      16,
+      20
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25088",
+    "date": "2025-08-04",
+    "frontBalls": [
+      8,
+      9,
+      10,
+      11,
+      35
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25089",
+    "date": "2025-08-06",
+    "frontBalls": [
+      2,
+      11,
+      12,
+      32,
+      34
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25090",
+    "date": "2025-08-09",
+    "frontBalls": [
+      6,
+      14,
+      19,
+      22,
+      27
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25091",
+    "date": "2025-08-11",
+    "frontBalls": [
+      1,
+      19,
+      22,
+      25,
+      27
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25092",
+    "date": "2025-08-13",
+    "frontBalls": [
+      4,
+      10,
+      17,
+      25,
+      32
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25093",
+    "date": "2025-08-16",
+    "frontBalls": [
+      1,
+      7,
+      9,
+      16,
+      30
+    ],
+    "backBalls": [
+      2,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25094",
+    "date": "2025-08-18",
+    "frontBalls": [
+      4,
+      9,
+      17,
+      30,
+      33
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25095",
+    "date": "2025-08-20",
+    "frontBalls": [
+      7,
+      13,
+      14,
+      19,
+      27
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25096",
+    "date": "2025-08-23",
+    "frontBalls": [
+      2,
+      11,
+      17,
+      22,
+      24
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25097",
+    "date": "2025-08-25",
+    "frontBalls": [
+      5,
+      24,
+      25,
+      32,
+      34
+    ],
+    "backBalls": [
+      1,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25098",
+    "date": "2025-08-27",
+    "frontBalls": [
+      1,
+      7,
+      9,
+      10,
+      23
+    ],
+    "backBalls": [
+      10,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25099",
+    "date": "2025-08-30",
+    "frontBalls": [
+      6,
+      12,
+      20,
+      26,
+      31
+    ],
+    "backBalls": [
+      2,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25100",
+    "date": "2025-09-01",
+    "frontBalls": [
+      26,
+      28,
+      32,
+      34,
+      35
+    ],
+    "backBalls": [
+      2,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25101",
+    "date": "2025-09-03",
+    "frontBalls": [
+      5,
+      7,
+      19,
+      26,
+      32
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25102",
+    "date": "2025-09-06",
+    "frontBalls": [
+      9,
+      10,
+      13,
+      26,
+      28
+    ],
+    "backBalls": [
+      2,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25103",
+    "date": "2025-09-08",
+    "frontBalls": [
+      5,
+      8,
+      19,
+      32,
+      34
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25104",
+    "date": "2025-09-10",
+    "frontBalls": [
+      2,
+      6,
+      9,
+      22,
+      34
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25105",
+    "date": "2025-09-13",
+    "frontBalls": [
+      15,
+      16,
+      25,
+      28,
+      34
+    ],
+    "backBalls": [
+      10,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25106",
+    "date": "2025-09-15",
+    "frontBalls": [
+      5,
+      6,
+      11,
+      26,
+      29
+    ],
+    "backBalls": [
+      5,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25107",
+    "date": "2025-09-17",
+    "frontBalls": [
+      5,
+      7,
+      8,
+      15,
+      33
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25108",
+    "date": "2025-09-20",
+    "frontBalls": [
+      14,
+      18,
+      21,
+      24,
+      29
+    ],
+    "backBalls": [
+      3,
+      6
+    ]
+  },
+  {
+    "issueNumber": "25109",
+    "date": "2025-09-22",
+    "frontBalls": [
+      4,
+      8,
+      10,
+      13,
+      26
+    ],
+    "backBalls": [
+      9,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25110",
+    "date": "2025-09-24",
+    "frontBalls": [
+      1,
+      15,
+      22,
+      30,
+      31
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25111",
+    "date": "2025-09-27",
+    "frontBalls": [
+      2,
+      9,
+      14,
+      21,
+      26
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25112",
+    "date": "2025-09-29",
+    "frontBalls": [
+      3,
+      4,
+      21,
+      23,
+      24
+    ],
+    "backBalls": [
+      9,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25113",
+    "date": "2025-10-06",
+    "frontBalls": [
+      1,
+      14,
+      18,
+      28,
+      35
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "25114",
+    "date": "2025-10-08",
+    "frontBalls": [
+      3,
+      8,
+      9,
+      12,
+      16
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25115",
+    "date": "2025-10-11",
+    "frontBalls": [
+      3,
+      12,
+      14,
+      21,
+      35
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25116",
+    "date": "2025-10-13",
+    "frontBalls": [
+      2,
+      6,
+      16,
+      22,
+      29
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25117",
+    "date": "2025-10-15",
+    "frontBalls": [
+      5,
+      10,
+      18,
+      21,
+      29
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25118",
+    "date": "2025-10-18",
+    "frontBalls": [
+      2,
+      8,
+      9,
+      12,
+      21
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25119",
+    "date": "2025-10-20",
+    "frontBalls": [
+      8,
+      15,
+      27,
+      29,
+      31
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25120",
+    "date": "2025-10-22",
+    "frontBalls": [
+      11,
+      13,
+      22,
+      26,
+      35
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25121",
+    "date": "2025-10-25",
+    "frontBalls": [
+      2,
+      3,
+      8,
+      13,
+      21
+    ],
+    "backBalls": [
+      7,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25122",
+    "date": "2025-10-27",
+    "frontBalls": [
+      2,
+      3,
+      6,
+      16,
+      17
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25123",
+    "date": "2025-10-29",
+    "frontBalls": [
+      8,
+      13,
+      24,
+      25,
+      31
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25124",
+    "date": "2025-11-01",
+    "frontBalls": [
+      6,
+      9,
+      14,
+      26,
+      27
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25125",
+    "date": "2025-11-03",
+    "frontBalls": [
+      10,
+      11,
+      13,
+      19,
+      35
+    ],
+    "backBalls": [
+      4,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25126",
+    "date": "2025-11-05",
+    "frontBalls": [
+      1,
+      8,
+      18,
+      27,
+      30
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25127",
+    "date": "2025-11-08",
+    "frontBalls": [
+      4,
+      5,
+      19,
+      28,
+      29
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25128",
+    "date": "2025-11-10",
+    "frontBalls": [
+      3,
+      6,
+      26,
+      30,
+      33
+    ],
+    "backBalls": [
+      11,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25129",
+    "date": "2025-11-12",
+    "frontBalls": [
+      3,
+      9,
+      14,
+      28,
+      35
+    ],
+    "backBalls": [
+      2,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25130",
+    "date": "2025-11-15",
+    "frontBalls": [
+      1,
+      13,
+      16,
+      27,
+      29
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25131",
+    "date": "2025-11-17",
+    "frontBalls": [
+      3,
+      8,
+      25,
+      29,
+      32
+    ],
+    "backBalls": [
+      9,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25132",
+    "date": "2025-11-19",
+    "frontBalls": [
+      1,
+      9,
+      10,
+      12,
+      19
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25133",
+    "date": "2025-11-22",
+    "frontBalls": [
+      4,
+      11,
+      23,
+      27,
+      35
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25134",
+    "date": "2025-11-24",
+    "frontBalls": [
+      7,
+      12,
+      18,
+      27,
+      33
+    ],
+    "backBalls": [
+      9,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25135",
+    "date": "2025-11-26",
+    "frontBalls": [
+      2,
+      10,
+      16,
+      28,
+      32
+    ],
+    "backBalls": [
+      1,
+      7
+    ]
+  },
+  {
+    "issueNumber": "25136",
+    "date": "2025-11-29",
+    "frontBalls": [
+      7,
+      11,
+      15,
+      16,
+      23
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25137",
+    "date": "2025-12-01",
+    "frontBalls": [
+      7,
+      8,
+      9,
+      11,
+      22
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25138",
+    "date": "2025-12-03",
+    "frontBalls": [
+      1,
+      3,
+      19,
+      21,
+      23
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "25139",
+    "date": "2025-12-06",
+    "frontBalls": [
+      8,
+      18,
+      22,
+      30,
+      35
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "25140",
+    "date": "2025-12-08",
+    "frontBalls": [
+      4,
+      5,
+      13,
+      18,
+      34
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25141",
+    "date": "2025-12-10",
+    "frontBalls": [
+      4,
+      9,
+      24,
+      28,
+      29
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "25142",
+    "date": "2025-12-13",
+    "frontBalls": [
+      9,
+      10,
+      14,
+      27,
+      29
+    ],
+    "backBalls": [
+      2,
+      9
+    ]
+  },
+  {
+    "issueNumber": "25143",
+    "date": "2025-12-15",
+    "frontBalls": [
+      3,
+      4,
+      18,
+      24,
+      29
+    ],
+    "backBalls": [
+      7,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25144",
+    "date": "2025-12-17",
+    "frontBalls": [
+      2,
+      5,
+      13,
+      15,
+      28
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25145",
+    "date": "2025-12-20",
+    "frontBalls": [
+      5,
+      7,
+      20,
+      22,
+      25
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "25146",
+    "date": "2025-12-22",
+    "frontBalls": [
+      6,
+      11,
+      13,
+      16,
+      22
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "25147",
+    "date": "2025-12-24",
+    "frontBalls": [
+      6,
+      16,
+      21,
+      25,
+      33
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "25148",
+    "date": "2025-12-27",
+    "frontBalls": [
+      3,
+      4,
+      14,
+      30,
+      32
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25149",
+    "date": "2025-12-29",
+    "frontBalls": [
+      24,
+      26,
+      30,
+      31,
+      32
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "25150",
+    "date": "2025-12-31",
+    "frontBalls": [
+      13,
+      14,
+      15,
+      28,
+      31
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26001",
+    "date": "2026-01-03",
+    "frontBalls": [
+      7,
+      9,
+      23,
+      27,
+      32
+    ],
+    "backBalls": [
+      2,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26002",
+    "date": "2026-01-05",
+    "frontBalls": [
+      4,
+      8,
+      15,
+      20,
+      31
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26003",
+    "date": "2026-01-07",
+    "frontBalls": [
+      2,
+      9,
+      11,
+      15,
+      16
+    ],
+    "backBalls": [
+      2,
+      4
+    ]
+  },
+  {
+    "issueNumber": "26004",
+    "date": "2026-01-10",
+    "frontBalls": [
+      5,
+      18,
+      23,
+      25,
+      32
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26005",
+    "date": "2026-01-12",
+    "frontBalls": [
+      2,
+      4,
+      16,
+      23,
+      35
+    ],
+    "backBalls": [
+      6,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26006",
+    "date": "2026-01-14",
+    "frontBalls": [
+      5,
+      12,
+      18,
+      23,
+      35
+    ],
+    "backBalls": [
+      6,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26007",
+    "date": "2026-01-17",
+    "frontBalls": [
+      1,
+      3,
+      13,
+      20,
+      26
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26008",
+    "date": "2026-01-19",
+    "frontBalls": [
+      3,
+      6,
+      17,
+      21,
+      33
+    ],
+    "backBalls": [
+      5,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26009",
+    "date": "2026-01-21",
+    "frontBalls": [
+      5,
+      12,
+      13,
+      14,
+      33
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26010",
+    "date": "2026-01-24",
+    "frontBalls": [
+      2,
+      3,
+      13,
+      18,
+      26
+    ],
+    "backBalls": [
+      2,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26011",
+    "date": "2026-01-26",
+    "frontBalls": [
+      14,
+      21,
+      23,
+      29,
+      33
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26012",
+    "date": "2026-01-28",
+    "frontBalls": [
+      1,
+      2,
+      9,
+      22,
+      25
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26013",
+    "date": "2026-01-31",
+    "frontBalls": [
+      3,
+      5,
+      6,
+      23,
+      26
+    ],
+    "backBalls": [
+      1,
+      4
+    ]
+  },
+  {
+    "issueNumber": "26014",
+    "date": "2026-02-02",
+    "frontBalls": [
+      16,
+      18,
+      23,
+      34,
+      35
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26015",
+    "date": "2026-02-04",
+    "frontBalls": [
+      1,
+      4,
+      10,
+      13,
+      17
+    ],
+    "backBalls": [
+      3,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26016",
+    "date": "2026-02-07",
+    "frontBalls": [
+      8,
+      9,
+      12,
+      19,
+      24
+    ],
+    "backBalls": [
+      1,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26017",
+    "date": "2026-02-09",
+    "frontBalls": [
+      4,
+      5,
+      10,
+      23,
+      31
+    ],
+    "backBalls": [
+      7,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26018",
+    "date": "2026-02-11",
+    "frontBalls": [
+      9,
+      11,
+      19,
+      30,
+      35
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26019",
+    "date": "2026-02-25",
+    "frontBalls": [
+      12,
+      13,
+      14,
+      16,
+      31
+    ],
+    "backBalls": [
+      4,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26020",
+    "date": "2026-02-28",
+    "frontBalls": [
+      1,
+      10,
+      21,
+      23,
+      29
+    ],
+    "backBalls": [
+      10,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26021",
+    "date": "2026-03-02",
+    "frontBalls": [
+      5,
+      8,
+      12,
+      14,
+      17
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26022",
+    "date": "2026-03-04",
+    "frontBalls": [
+      5,
+      9,
+      10,
+      18,
+      26
+    ],
+    "backBalls": [
+      5,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26023",
+    "date": "2026-03-07",
+    "frontBalls": [
+      9,
+      25,
+      26,
+      27,
+      28
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26024",
+    "date": "2026-03-09",
+    "frontBalls": [
+      2,
+      4,
+      8,
+      10,
+      21
+    ],
+    "backBalls": [
+      9,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26025",
+    "date": "2026-03-11",
+    "frontBalls": [
+      3,
+      15,
+      24,
+      28,
+      29
+    ],
+    "backBalls": [
+      3,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26026",
+    "date": "2026-03-14",
+    "frontBalls": [
+      10,
+      11,
+      22,
+      26,
+      32
+    ],
+    "backBalls": [
+      1,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26027",
+    "date": "2026-03-16",
+    "frontBalls": [
+      9,
+      10,
+      11,
+      12,
+      16
+    ],
+    "backBalls": [
+      1,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26028",
+    "date": "2026-03-18",
+    "frontBalls": [
+      15,
+      27,
+      29,
+      30,
+      34
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26029",
+    "date": "2026-03-21",
+    "frontBalls": [
+      3,
+      5,
+      17,
+      33,
+      35
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26030",
+    "date": "2026-03-23",
+    "frontBalls": [
+      2,
+      13,
+      22,
+      28,
+      34
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26031",
+    "date": "2026-03-25",
+    "frontBalls": [
+      6,
+      8,
+      22,
+      29,
+      34
+    ],
+    "backBalls": [
+      5,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26032",
+    "date": "2026-03-28",
+    "frontBalls": [
+      3,
+      4,
+      19,
+      26,
+      32
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26033",
+    "date": "2026-03-30",
+    "frontBalls": [
+      3,
+      5,
+      7,
+      9,
+      18
+    ],
+    "backBalls": [
+      2,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26034",
+    "date": "2026-04-01",
+    "frontBalls": [
+      11,
+      12,
+      25,
+      26,
+      27
+    ],
+    "backBalls": [
+      8,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26035",
+    "date": "2026-04-04",
+    "frontBalls": [
+      2,
+      22,
+      30,
+      33,
+      34
+    ],
+    "backBalls": [
+      8,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26036",
+    "date": "2026-04-06",
+    "frontBalls": [
+      4,
+      7,
+      16,
+      26,
+      32
+    ],
+    "backBalls": [
+      5,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26037",
+    "date": "2026-04-08",
+    "frontBalls": [
+      7,
+      12,
+      13,
+      28,
+      32
+    ],
+    "backBalls": [
+      6,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26038",
+    "date": "2026-04-11",
+    "frontBalls": [
+      8,
+      17,
+      21,
+      33,
+      35
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26039",
+    "date": "2026-04-13",
+    "frontBalls": [
+      9,
+      11,
+      20,
+      26,
+      27
+    ],
+    "backBalls": [
+      6,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26040",
+    "date": "2026-04-15",
+    "frontBalls": [
+      6,
+      12,
+      13,
+      21,
+      34
+    ],
+    "backBalls": [
+      8,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26041",
+    "date": "2026-04-18",
+    "frontBalls": [
+      24,
+      25,
+      27,
+      29,
+      34
+    ],
+    "backBalls": [
+      2,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26042",
+    "date": "2026-04-20",
+    "frontBalls": [
+      2,
+      7,
+      13,
+      19,
+      24
+    ],
+    "backBalls": [
+      3,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26043",
+    "date": "2026-04-22",
+    "frontBalls": [
+      8,
+      12,
+      14,
+      19,
+      22
+    ],
+    "backBalls": [
+      11,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26044",
+    "date": "2026-04-25",
+    "frontBalls": [
+      3,
+      8,
+      22,
+      26,
+      29
+    ],
+    "backBalls": [
+      7,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26045",
+    "date": "2026-04-27",
+    "frontBalls": [
+      1,
+      15,
+      21,
+      26,
+      33
+    ],
+    "backBalls": [
+      4,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26046",
+    "date": "2026-04-29",
+    "frontBalls": [
+      1,
+      13,
+      18,
+      27,
+      33
+    ],
+    "backBalls": [
+      4,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26047",
+    "date": "2026-05-02",
+    "frontBalls": [
+      9,
+      20,
+      21,
+      23,
+      28
+    ],
+    "backBalls": [
+      6,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26048",
+    "date": "2026-05-04",
+    "frontBalls": [
+      11,
+      17,
+      20,
+      23,
+      35
+    ],
+    "backBalls": [
+      1,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26049",
+    "date": "2026-05-06",
+    "frontBalls": [
+      1,
+      6,
+      14,
+      15,
+      17
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "26050",
+    "date": "2026-05-09",
+    "frontBalls": [
+      6,
+      10,
+      14,
+      23,
+      33
+    ],
+    "backBalls": [
+      8,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26051",
+    "date": "2026-05-11",
+    "frontBalls": [
+      13,
+      18,
+      28,
+      32,
+      33
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26052",
+    "date": "2026-05-13",
+    "frontBalls": [
+      2,
+      3,
+      20,
+      28,
+      33
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26053",
+    "date": "2026-05-16",
+    "frontBalls": [
+      2,
+      9,
+      14,
+      20,
+      31
+    ],
+    "backBalls": [
+      5,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26054",
+    "date": "2026-05-18",
+    "frontBalls": [
+      2,
+      6,
+      14,
+      22,
+      24
+    ],
+    "backBalls": [
+      8,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26055",
+    "date": "2026-05-20",
+    "frontBalls": [
+      9,
+      10,
+      20,
+      33,
+      35
+    ],
+    "backBalls": [
+      4,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26056",
+    "date": "2026-05-23",
+    "frontBalls": [
+      6,
+      7,
+      18,
+      21,
+      30
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26057",
+    "date": "2026-05-25",
+    "frontBalls": [
+      23,
+      25,
+      26,
+      27,
+      34
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26058",
+    "date": "2026-05-27",
+    "frontBalls": [
+      7,
+      12,
+      13,
+      18,
+      34
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26059",
+    "date": "2026-05-30",
+    "frontBalls": [
+      6,
+      13,
+      17,
+      19,
+      26
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26060",
+    "date": "2026-06-01",
+    "frontBalls": [
+      22,
+      28,
+      30,
+      31,
+      34
+    ],
+    "backBalls": [
+      1,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26061",
+    "date": "2026-06-03",
+    "frontBalls": [
+      10,
+      12,
+      26,
+      31,
+      35
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26062",
+    "date": "2026-06-06",
+    "frontBalls": [
+      7,
+      15,
+      20,
+      24,
+      29
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26063",
+    "date": "2026-06-08",
+    "frontBalls": [
+      3,
+      15,
+      20,
+      29,
+      31
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26064",
+    "date": "2026-06-10",
+    "frontBalls": [
+      3,
+      13,
+      15,
+      17,
+      21
+    ],
+    "backBalls": [
+      2,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26065",
+    "date": "2026-06-13",
+    "frontBalls": [
+      4,
+      11,
+      12,
+      13,
+      25
+    ],
+    "backBalls": [
+      4,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26066",
+    "date": "2026-06-15",
+    "frontBalls": [
+      10,
+      13,
+      19,
+      21,
+      30
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  },
+  {
+    "issueNumber": "26067",
+    "date": "2026-06-17",
+    "frontBalls": [
+      6,
+      16,
+      18,
+      19,
+      28
+    ],
+    "backBalls": [
+      7,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26068",
+    "date": "2026-06-20",
+    "frontBalls": [
+      3,
+      11,
+      12,
+      21,
+      22
+    ],
+    "backBalls": [
+      6,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26069",
+    "date": "2026-06-22",
+    "frontBalls": [
+      12,
+      19,
+      21,
+      24,
+      29
+    ],
+    "backBalls": [
+      3,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26070",
+    "date": "2026-06-24",
+    "frontBalls": [
+      4,
+      5,
+      15,
+      21,
+      32
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26071",
+    "date": "2026-06-27",
+    "frontBalls": [
+      5,
+      13,
+      22,
+      26,
+      32
+    ],
+    "backBalls": [
+      2,
+      3
+    ]
+  },
+  {
+    "issueNumber": "26072",
+    "date": "2026-06-29",
+    "frontBalls": [
+      1,
+      13,
+      26,
+      29,
+      30
+    ],
+    "backBalls": [
+      9,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26073",
+    "date": "2026-07-01",
+    "frontBalls": [
+      4,
+      10,
+      22,
+      23,
+      33
+    ],
+    "backBalls": [
+      2,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26074",
+    "date": "2026-07-04",
+    "frontBalls": [
+      1,
+      4,
+      10,
+      23,
+      25
+    ],
+    "backBalls": [
+      1,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26075",
+    "date": "2026-07-06",
+    "frontBalls": [
+      1,
+      6,
+      16,
+      18,
+      26
+    ],
+    "backBalls": [
+      4,
+      10
+    ]
+  },
+  {
+    "issueNumber": "26076",
+    "date": "2026-07-08",
+    "frontBalls": [
+      15,
+      20,
+      27,
+      28,
+      35
+    ],
+    "backBalls": [
+      2,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26077",
+    "date": "2026-07-11",
+    "frontBalls": [
+      4,
+      14,
+      19,
+      24,
+      27
+    ],
+    "backBalls": [
+      6,
+      7
+    ]
+  },
+  {
+    "issueNumber": "26078",
+    "date": "2026-07-13",
+    "frontBalls": [
+      2,
+      13,
+      20,
+      25,
+      32
+    ],
+    "backBalls": [
+      8,
+      11
+    ]
+  },
+  {
+    "issueNumber": "26079",
+    "date": "2026-07-15",
+    "frontBalls": [
+      6,
+      8,
+      23,
+      26,
+      27
+    ],
+    "backBalls": [
+      5,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26080",
+    "date": "2026-07-18",
+    "frontBalls": [
+      5,
+      10,
+      15,
+      21,
+      23
+    ],
+    "backBalls": [
+      7,
+      8
+    ]
+  },
+  {
+    "issueNumber": "26081",
+    "date": "2026-07-20",
+    "frontBalls": [
+      8,
+      16,
+      18,
+      24,
+      34
+    ],
+    "backBalls": [
+      9,
+      12
+    ]
+  },
+  {
+    "issueNumber": "26082",
+    "date": "2026-07-22",
+    "frontBalls": [
+      16,
+      26,
+      27,
+      28,
+      34
+    ],
+    "backBalls": [
+      2,
+      6
+    ]
+  },
+  {
+    "issueNumber": "26083",
+    "date": "2026-07-25",
+    "frontBalls": [
+      14,
+      15,
+      16,
+      23,
+      26
+    ],
+    "backBalls": [
+      7,
+      9
+    ]
+  },
+  {
+    "issueNumber": "26084",
+    "date": "2026-07-27",
+    "frontBalls": [
+      13,
+      25,
+      30,
+      32,
+      33
+    ],
+    "backBalls": [
+      4,
+      5
+    ]
+  }
+]

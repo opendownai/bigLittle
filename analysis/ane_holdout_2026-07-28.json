@@ -1,0 +1,1505 @@
+{
+  "checkpoint": {
+    "path": "ane_training/snapshots/20260728_144154/step_004000.bin",
+    "sha256": "3ddce7cb80b21e59d3f48667928c4d384186965facfde75ffad83255512a43e2",
+    "step": 4000,
+    "trainingLoss": 2.5399701595306396,
+    "layers": 2,
+    "dim": 64,
+    "hidden": 128,
+    "heads": 4,
+    "parameters": 85312
+  },
+  "data": {
+    "records": 386,
+    "trainingRecords": 314,
+    "trainingCutoffIssue": "26012",
+    "trainingCutoffDate": "2026-01-28"
+  },
+  "validation": {
+    "draws": 36,
+    "fromIssue": "26013",
+    "toIssue": "26048",
+    "model": {
+      "frontHits": 0.8888888888888888,
+      "backHits": 0.5,
+      "totalHits": 1.3888888888888888,
+      "maskedNumberNll": 2.4862179089160192
+    },
+    "frequency50": {
+      "frontHits": 0.6666666666666666,
+      "backHits": 0.2222222222222222,
+      "totalHits": 0.8888888888888888
+    },
+    "randomExpected": {
+      "frontHits": 0.7142857142857143,
+      "backHits": 0.3333333333333333,
+      "totalHits": 1.0476190476190477
+    },
+    "details": [
+      {
+        "issue": "26013",
+        "date": "2026-01-31",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.7047572135925293
+      },
+      {
+        "issue": "26014",
+        "date": "2026-02-02",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.381440128598894
+      },
+      {
+        "issue": "26015",
+        "date": "2026-02-04",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.5390003408704485
+      },
+      {
+        "issue": "26016",
+        "date": "2026-02-07",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.613958512033735
+      },
+      {
+        "issue": "26017",
+        "date": "2026-02-09",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            16,
+            22,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.5998069047927856
+      },
+      {
+        "issue": "26018",
+        "date": "2026-02-11",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 1,
+        "maskedNumberNll": 2.4818371534347534
+      },
+      {
+        "issue": "26019",
+        "date": "2026-02-25",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.813067674636841
+      },
+      {
+        "issue": "26020",
+        "date": "2026-02-28",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            16,
+            22,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.3815068432262967
+      },
+      {
+        "issue": "26021",
+        "date": "2026-03-02",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            5,
+            11
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.6323256152016774
+      },
+      {
+        "issue": "26022",
+        "date": "2026-03-04",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.4306739398411343
+      },
+      {
+        "issue": "26023",
+        "date": "2026-03-07",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 2,
+        "maskedNumberNll": 2.535492403166635
+      },
+      {
+        "issue": "26024",
+        "date": "2026-03-09",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.4397256204060147
+      },
+      {
+        "issue": "26025",
+        "date": "2026-03-11",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.4183362892695834
+      },
+      {
+        "issue": "26026",
+        "date": "2026-03-14",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 2,
+        "maskedNumberNll": 2.4882959808622087
+      },
+      {
+        "issue": "26027",
+        "date": "2026-03-16",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 1,
+        "maskedNumberNll": 2.6183666501726424
+      },
+      {
+        "issue": "26028",
+        "date": "2026-03-18",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            5,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.2920025757380893
+      },
+      {
+        "issue": "26029",
+        "date": "2026-03-21",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.3488581010273526
+      },
+      {
+        "issue": "26030",
+        "date": "2026-03-23",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.363566722188677
+      },
+      {
+        "issue": "26031",
+        "date": "2026-03-25",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.4493644578116283
+      },
+      {
+        "issue": "26032",
+        "date": "2026-03-28",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.46932213647025
+      },
+      {
+        "issue": "26033",
+        "date": "2026-03-30",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.420223133904593
+      },
+      {
+        "issue": "26034",
+        "date": "2026-04-01",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.6931580305099487
+      },
+      {
+        "issue": "26035",
+        "date": "2026-04-04",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.2210600716727122
+      },
+      {
+        "issue": "26036",
+        "date": "2026-04-06",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.4332159417016164
+      },
+      {
+        "issue": "26037",
+        "date": "2026-04-08",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.510369999068124
+      },
+      {
+        "issue": "26038",
+        "date": "2026-04-11",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.3850729380335127
+      },
+      {
+        "issue": "26039",
+        "date": "2026-04-13",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.4225211313792636
+      },
+      {
+        "issue": "26040",
+        "date": "2026-04-15",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.5082863569259644
+      },
+      {
+        "issue": "26041",
+        "date": "2026-04-18",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.567011867250715
+      },
+      {
+        "issue": "26042",
+        "date": "2026-04-20",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.4098867688860213
+      },
+      {
+        "issue": "26043",
+        "date": "2026-04-22",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.3928618090493337
+      },
+      {
+        "issue": "26044",
+        "date": "2026-04-25",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 2,
+        "backHits": 0,
+        "maskedNumberNll": 2.3230844736099243
+      },
+      {
+        "issue": "26045",
+        "date": "2026-04-27",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.515387841633388
+      },
+      {
+        "issue": "26046",
+        "date": "2026-04-29",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.529743637357439
+      },
+      {
+        "issue": "26047",
+        "date": "2026-05-02",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.574774810246059
+      },
+      {
+        "issue": "26048",
+        "date": "2026-05-04",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.595480646405901
+      }
+    ]
+  },
+  "test": {
+    "draws": 36,
+    "fromIssue": "26049",
+    "toIssue": "26084",
+    "model": {
+      "frontHits": 0.4722222222222222,
+      "backHits": 0.3055555555555556,
+      "totalHits": 0.7777777777777778,
+      "maskedNumberNll": 2.4911764668566843
+    },
+    "frequency50": {
+      "frontHits": 0.8055555555555556,
+      "backHits": 0.19444444444444445,
+      "totalHits": 1.0
+    },
+    "randomExpected": {
+      "frontHits": 0.7142857142857143,
+      "backHits": 0.3333333333333333,
+      "totalHits": 1.0476190476190477
+    },
+    "details": [
+      {
+        "issue": "26049",
+        "date": "2026-05-06",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.707460267203195
+      },
+      {
+        "issue": "26050",
+        "date": "2026-05-09",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.434125099863325
+      },
+      {
+        "issue": "26051",
+        "date": "2026-05-11",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.3717490434646606
+      },
+      {
+        "issue": "26052",
+        "date": "2026-05-13",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.5864578996385847
+      },
+      {
+        "issue": "26053",
+        "date": "2026-05-16",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.3044181210654124
+      },
+      {
+        "issue": "26054",
+        "date": "2026-05-18",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.403666581426348
+      },
+      {
+        "issue": "26055",
+        "date": "2026-05-20",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.35245053257261
+      },
+      {
+        "issue": "26056",
+        "date": "2026-05-23",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.5354098762784685
+      },
+      {
+        "issue": "26057",
+        "date": "2026-05-25",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.626726303781782
+      },
+      {
+        "issue": "26058",
+        "date": "2026-05-27",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.609154054096767
+      },
+      {
+        "issue": "26059",
+        "date": "2026-05-30",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.5303345578057423
+      },
+      {
+        "issue": "26060",
+        "date": "2026-06-01",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.2662538630621776
+      },
+      {
+        "issue": "26061",
+        "date": "2026-06-03",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.469550609588623
+      },
+      {
+        "issue": "26062",
+        "date": "2026-06-06",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.3913871901375905
+      },
+      {
+        "issue": "26063",
+        "date": "2026-06-08",
+        "prediction": {
+          "front": [
+            2,
+            3,
+            8,
+            11,
+            18
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.414905837603978
+      },
+      {
+        "issue": "26064",
+        "date": "2026-06-10",
+        "prediction": {
+          "front": [
+            3,
+            8,
+            10,
+            16,
+            20
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.571394205093384
+      },
+      {
+        "issue": "26065",
+        "date": "2026-06-13",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 1,
+        "maskedNumberNll": 2.6227237497057234
+      },
+      {
+        "issue": "26066",
+        "date": "2026-06-15",
+        "prediction": {
+          "front": [
+            2,
+            3,
+            9,
+            11,
+            20
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.6280769280024936
+      },
+      {
+        "issue": "26067",
+        "date": "2026-06-17",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.5233304500579834
+      },
+      {
+        "issue": "26068",
+        "date": "2026-06-20",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 3,
+        "backHits": 0,
+        "maskedNumberNll": 2.4629102775028775
+      },
+      {
+        "issue": "26069",
+        "date": "2026-06-22",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.524632981845311
+      },
+      {
+        "issue": "26070",
+        "date": "2026-06-24",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.656326566423689
+      },
+      {
+        "issue": "26071",
+        "date": "2026-06-27",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.4425389766693115
+      },
+      {
+        "issue": "26072",
+        "date": "2026-06-29",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.378728457859584
+      },
+      {
+        "issue": "26073",
+        "date": "2026-07-01",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            20,
+            29
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.597440344946725
+      },
+      {
+        "issue": "26074",
+        "date": "2026-07-04",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.542234880583627
+      },
+      {
+        "issue": "26075",
+        "date": "2026-07-06",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.454042843409947
+      },
+      {
+        "issue": "26076",
+        "date": "2026-07-08",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.434207626751491
+      },
+      {
+        "issue": "26077",
+        "date": "2026-07-11",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.5537960529327393
+      },
+      {
+        "issue": "26078",
+        "date": "2026-07-13",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.3806121008736745
+      },
+      {
+        "issue": "26079",
+        "date": "2026-07-15",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.5288722004209245
+      },
+      {
+        "issue": "26080",
+        "date": "2026-07-18",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 1,
+        "maskedNumberNll": 2.38613794531141
+      },
+      {
+        "issue": "26081",
+        "date": "2026-07-20",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 1,
+        "backHits": 0,
+        "maskedNumberNll": 2.4478221450533186
+      },
+      {
+        "issue": "26082",
+        "date": "2026-07-22",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.5566731861659457
+      },
+      {
+        "issue": "26083",
+        "date": "2026-07-25",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            10,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.6921078136989047
+      },
+      {
+        "issue": "26084",
+        "date": "2026-07-27",
+        "prediction": {
+          "front": [
+            3,
+            9,
+            11,
+            18,
+            22
+          ],
+          "back": [
+            1,
+            8
+          ]
+        },
+        "frontHits": 0,
+        "backHits": 0,
+        "maskedNumberNll": 2.2936932359422957
+      }
+    ]
+  }
+}

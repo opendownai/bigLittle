@@ -1,0 +1,35 @@
+{
+  "checkpoint": {
+    "path": "ane_training/deploy/three_calendar_years_20260728/step_004000.bin",
+    "sha256": "13bc8a48b7ddf23aa7dac73fd5a679e6a3e5c4e524738c70a62c3cdbe015c53d",
+    "step": 4000,
+    "trainingLoss": 2.622631549835205,
+    "layers": 2,
+    "dim": 64,
+    "hidden": 128,
+    "heads": 4,
+    "parameters": 85312
+  },
+  "data": {
+    "records": 386,
+    "trainingRecords": 386,
+    "trainingCutoffIssue": "26084",
+    "trainingCutoffDate": "2026-07-27"
+  },
+  "nextPrediction": {
+    "latestInputIssue": "26084",
+    "latestInputDate": "2026-07-27",
+    "front": [
+      2,
+      3,
+      9,
+      10,
+      18
+    ],
+    "back": [
+      1,
+      8
+    ],
+    "method": "ane_autoregressive_masked"
+  }
+}

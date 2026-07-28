@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "calendarYears": 3,
+  "schedule": [
+    {
+      "hour": 8,
+      "minute": 30
+    },
+    {
+      "hour": 22,
+      "minute": 45
+    }
+  ],
+  "drawWeekdays": [
+    0,
+    2,
+    5
+  ],
+  "ane": {
+    "steps": 4000,
+    "holdoutDraws": 0
+  },
+  "git": {
+    "enabled": true,
+    "push": true,
+    "remote": "origin",
+    "commitMessage": "Record DLT cycle through {latestIssue}"
+  },
+  "paths": {
+    "rules": "automation/dlt_rules.json",
+    "predictions": "predictions",
+    "humanPredictions": "pre",
+    "analysis": "analysis",
+    "checkpoint": "models/ane_lottery_deploy.bin",
+    "deploymentManifest": "models/ane_lottery_deploy.manifest.json",
+    "trainingManifest": "data/lottery_train.bin.manifest.json"
+  }
+}
