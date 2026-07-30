@@ -1,0 +1,12 @@
+{
+  "averageTotalHits": 1.0,
+  "evaluatedPredictions": 1,
+  "issues": [
+    "26085"
+  ],
+  "schemaVersion": 1,
+  "tierCounts": {
+    "未中奖": 1
+  },
+  "winningPredictions": 0
+}
