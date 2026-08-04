@@ -1,0 +1,12 @@
+Lottery Prediction
+Generated on: 2026-08-04
+For draw: 26088
+Scheduled date estimate: 2026-08-05 (休市日除外)
+Based on data through: 26087 (2026-08-03)
+Data SHA-256: fcb6552559ea139fc332b43f46c77e2754a1c2ad0a9a7acd9ead295719b5b923
+Model SHA-256: 6221e257815370d6cb647f95b2f6d32f16bb3a5b8c529e87b117805b0f05f637
+Method: ane_autoregressive_masked
+
+ 1. 02 03 09 10 18 + 01 08 (ane_autoregressive_masked)
+
+This record was generated before the target draw. After the draw, write a separate result analysis and do not replace these numbers.

@@ -1,0 +1,42 @@
+{
+  "actual": {
+    "back": [
+      4,
+      10
+    ],
+    "front": [
+      5,
+      10,
+      16,
+      24,
+      27
+    ]
+  },
+  "actualDataSha256": "fcb6552559ea139fc332b43f46c77e2754a1c2ad0a9a7acd9ead295719b5b923",
+  "backHits": 0,
+  "condition": "1+0",
+  "drawDate": "2026-08-03",
+  "evaluatedAt": "2026-08-04T00:30:32.658515+00:00",
+  "frontHits": 1,
+  "issue": "26087",
+  "prediction": {
+    "back": [
+      1,
+      8
+    ],
+    "front": [
+      2,
+      3,
+      9,
+      10,
+      18
+    ],
+    "method": "ane_autoregressive_masked"
+  },
+  "predictionRecord": "predictions/26087.json",
+  "prizeTier": null,
+  "ruleSource": "https://static.sporttery.cn/res_1_0/cmsv2/upload/docfile/202601/1511220935li.pdf",
+  "ruleVersion": "dlt-2026-seven-tiers",
+  "schemaVersion": 1,
+  "totalHits": 1
+}

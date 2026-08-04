@@ -1,13 +1,14 @@
 {
-  "averageTotalHits": 1.5,
-  "evaluatedPredictions": 2,
+  "averageTotalHits": 1.3333333333333333,
+  "evaluatedPredictions": 3,
   "issues": [
     "26085",
-    "26086"
+    "26086",
+    "26087"
   ],
   "schemaVersion": 1,
   "tierCounts": {
-    "未中奖": 2
+    "未中奖": 3
   },
   "winningPredictions": 0
 }

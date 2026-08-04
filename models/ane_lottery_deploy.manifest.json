@@ -1,5 +1,5 @@
 {
-  "checkpointSha256": "81d5d1af90695a8a7ab7a5966652e37d7639dc80f91e717f5f9338f86d6b40a8",
+  "checkpointSha256": "6221e257815370d6cb647f95b2f6d32f16bb3a5b8c529e87b117805b0f05f637",
   "config": {
     "dim": 64,
     "heads": 4,
@@ -9,12 +9,12 @@
     "step": 4000,
     "vocab": 48
   },
-  "latestDate": "2026-08-01",
-  "latestIssue": "26086",
+  "latestDate": "2026-08-03",
+  "latestIssue": "26087",
   "schemaVersion": 1,
-  "sourceDataSha256": "353b5b07d873d61516fa92563227221edddc4f18d91150d1b7cf78d835b2e5ac",
-  "sourceDrawCount": 388,
-  "trainedAt": "2026-08-02T00:30:40.431759+00:00",
-  "trainingDataSha256": "8ffca5b77a63521f93f2f4a60b854826dbc62e2d1baebf3895f665a194da5031",
-  "trainingDrawCount": 388
+  "sourceDataSha256": "fcb6552559ea139fc332b43f46c77e2754a1c2ad0a9a7acd9ead295719b5b923",
+  "sourceDrawCount": 389,
+  "trainedAt": "2026-08-04T00:30:52.001657+00:00",
+  "trainingDataSha256": "879ed958ca714c1dd26992c3342f1e88cf45e8f4f06d14189c65cd26b17300d5",
+  "trainingDrawCount": 389
 }
