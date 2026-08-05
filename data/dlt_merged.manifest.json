@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T00:30:32.553911+00:00",
+  "generatedAt": "2026-08-05T00:30:17.358615+00:00",
   "verification": {
     "result": "exact_match",
     "fullHistoryComparedRecords": 2905,
@@ -26,7 +26,7 @@
     "githubFullHistory": {
       "url": "https://raw.githubusercontent.com/yangxb919/lottery-data/main/data/dlt.json",
       "host": "raw.githubusercontent.com",
-      "commit": "d17c7b34338381a5cb8d6e6a8aa7e57f28fc45ea",
+      "commit": "437bb67596c3b58481221ecd428dd24f6a23c558",
       "declaredUpstream": [
         "500.com"
       ]
