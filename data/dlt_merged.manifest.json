@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T00:30:18.565019+00:00",
+  "generatedAt": "2026-08-22T14:45:20.607656+00:00",
   "verification": {
     "result": "exact_match",
-    "fullHistoryComparedRecords": 2912,
+    "fullHistoryComparedRecords": 2913,
     "officialSnapshotComparedRecords": 2845,
     "duplicateIssues": 0,
     "missingIssuesWithinYears": 0
@@ -15,18 +15,18 @@
     "throughYear": 2026
   },
   "dataset": {
-    "records": 396,
+    "records": 397,
     "firstIssue": "24001",
     "firstDate": "2024-01-01",
-    "latestIssue": "26094",
-    "latestDate": "2026-08-19",
-    "sha256": "d34008b8dd5993625dbc5be6670d31b6cc7c38b95a2cb7e647cb1b9a8c668f50"
+    "latestIssue": "26095",
+    "latestDate": "2026-08-22",
+    "sha256": "49620eb5e73e6d7e020820d9698514a4a5e3fcd536d4e359e919b57b8ebfb621"
   },
   "sources": {
     "githubFullHistory": {
       "url": "https://raw.githubusercontent.com/yangxb919/lottery-data/main/data/dlt.json",
       "host": "raw.githubusercontent.com",
-      "commit": "4fd5bbe94ca0d01b3fbd33c278e955c420bd3459",
+      "commit": "04ccbe5e38822553cc206ca73f931475a4981787",
       "declaredUpstream": [
         "500.com"
       ]
@@ -41,7 +41,7 @@
       "host": "webapi.sporttery.cn",
       "gameNo": "85",
       "pages": 30,
-      "records": 2912
+      "records": 2913
     }
   }
 }
