@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-09-15T14:45:43.932961+00:00",
+  "input": {
+    "calendarYears": 3,
+    "dataSha256": "53159ea79da42532681b6b1cdaf653771c09f11b0b83e34d3c9e967609a0479c",
+    "drawCount": 407,
+    "latestDate": "2026-09-14",
+    "latestIssue": "26105"
+  },
+  "issue": "26106",
+  "model": {
+    "checkpointSha256": "f7211dc595e14be2a72ffe73a16f93979d1984f35b5468f335df2b9c11343c20",
+    "config": {
+      "dim": 64,
+      "heads": 4,
+      "hidden": 128,
+      "layers": 2,
+      "sequence": 64,
+      "step": 4000,
+      "vocab": 48
+    },
+    "trainingDataSha256": "86dd599a92100e007d143d92f7b5819e37d32efacea2c85e2115d02f1d0e8df7"
+  },
+  "prediction": {
+    "back": [
+      1,
+      8
+    ],
+    "front": [
+      3,
+      9,
+      10,
+      18,
+      21
+    ],
+    "method": "ane_autoregressive_masked"
+  },
+  "recordPath": "predictions/26106.json",
+  "scheduledDateEstimate": "2026-09-16",
+  "schemaVersion": 1,
+  "status": "pending"
+}
