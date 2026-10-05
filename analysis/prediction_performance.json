@@ -1,6 +1,6 @@
 {
-  "averageTotalHits": 1.32,
-  "evaluatedPredictions": 25,
+  "averageTotalHits": 1.3461538461538463,
+  "evaluatedPredictions": 26,
   "issues": [
     "26085",
     "26086",
@@ -26,12 +26,13 @@
     "26108",
     "26109",
     "26110",
-    "26111"
+    "26111",
+    "26112"
   ],
   "schemaVersion": 1,
   "tierCounts": {
     "七等奖": 2,
-    "未中奖": 23
+    "未中奖": 24
   },
   "winningPredictions": 2
 }
