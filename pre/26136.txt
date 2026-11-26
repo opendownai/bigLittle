@@ -1,0 +1,12 @@
+Lottery Prediction
+Generated on: 2026-11-26
+For draw: 26136
+Scheduled date estimate: 2026-11-28 (休市日除外)
+Based on data through: 26135 (2026-11-25)
+Data SHA-256: 6fc074cb86e56a2a797feef7550fe30c397461b75397363a5ff9da8c50ec0536
+Model SHA-256: b19ba8d21d7b9ba12ba9e3fd2c325d0ba4668aa51423fbdfd8202f6b1a3fd456
+Method: ane_autoregressive_masked
+
+ 1. 03 09 10 18 26 + 01 08 (ane_autoregressive_masked)
+
+This record was generated before the target draw. After the draw, write a separate result analysis and do not replace these numbers.
